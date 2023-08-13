@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555734633183",
+    "project_id": "hindustan-ecommerce",
+    "storage_bucket": "hindustan-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555734633183:android:f2c42597542e99803c776a",
+        "android_client_info": {
+          "package_name": "com.hindustan.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555734633183-vst5tu66bfefj9s2eom306h55gu8ds33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hindustan.ecommerce",
+            "certificate_hash": "96aa8dd724db6c3e762e0fc4899ad3cce9d5eef8"
+          }
+        },
+        {
+          "client_id": "555734633183-1hq01obodgp51qqbg041pedlefp6n4bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHX_P9L0JItl77TE1h49uP1zgvfQYKh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555734633183-1hq01obodgp51qqbg041pedlefp6n4bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
